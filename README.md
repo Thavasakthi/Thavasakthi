@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Thavasakthi Ganesan
 
-<!--
-**Thavasakthi/Thavasakthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Graduate | Java Developer | MERN Stack Developer
 
-Here are some ideas to get you started:
+- 🌱 Learning Full Stack Java Development
+- 💻 Java | Spring Boot | React | Node.js
+- 🗄 MySQL | MongoDB
+- 📫 Email: thavasakthiganesan2004@gmail.com
+- 🌍 Location: Tamil Nadu, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+
+- GitHub: https://github.com/Thavasakthi
+- LinkedIn: https://linkedin.com/in/thavasakthiganesan2004
+
+## Skills
+
+Java • Spring Boot • HTML • CSS • JavaScript • React • Node.js • Express • MySQL • MongoDB • Git • GitHub
