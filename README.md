@@ -137,72 +137,11 @@
 
 ## Featured Projects
 
-### [VeloDrive – Cloud Storage & Real-Time CDN Platform](https://github.com/Thavasakthi/VeloDrive)
-
-A full-stack cloud storage platform enabling secure file uploads, real-time collaboration, and fast asset delivery.
-
-**Tech Stack:** `React 19` `Vite 7` `Node.js` `Express.js` `MongoDB Atlas` `Socket.IO` `JWT` `2FA (TOTP)`
-
-**Key Features:**
-- Secure cloud storage with JWT authentication
-- Two-Factor Authentication (TOTP)
-- Role-Based Access Control (RBAC)
-- Real-time collaboration via Socket.IO
-
-[**GitHub Repo**](https://github.com/Thavasakthi/VeloDrive) &nbsp;|&nbsp; [**Live Demo**](https://velo-drive-iahn.vercel.app)
-
----
-
-### Institution Intelligence Engine
-
-A full-stack analytics platform built for academic and placement data management.
-
-**Tech Stack:** `Flask` `MongoDB` `REST APIs`
-
-**Key Features:**
-- Academic analytics dashboard
-- Placement tracking system
-- Automated reporting
-
----
-
-### Student Skill Evaluation Platform
-
-A secure online assessment system with authentication and automated scoring.
-
-**Tech Stack:** `HTML` `CSS` `JavaScript` `Node.js` `MySQL`
-
-**Key Features:**
-- Secure authentication
-- Online exam module
-- Automated result generation
-- Performance tracking
-
----
-
-## Education
-
-| Degree | Institution | Duration | Score |
-|:--|:--|:--|:--|
-| B.E. Computer Science Engineering | Nadar Saraswathi College of Engineering & Technology, Theni | 2022 – 2026 | CGPA: 8.32/10 |
-| HSC | — | 2021 – 2022 | 87.50% |
-| SSLC | — | 2019 – 2020 | 81.40% |
-
----
-
-## Certifications
-
-- **NPTEL** — Java Programming
-- **NPTEL** — Python Programming
-- **Infosys Springboard** — Basics of Python
-- **Infosys Springboard** — Java for Beginners
-
----
-
-## Achievements
-
-- Academic Excellence Award (twice)
-- 3rd Rank — 3rd & 5th Semesters
+| Project | Tech Stack |
+|:--|:--|
+| **[VeloDrive – Cloud Storage & Real-Time CDN Platform](https://github.com/Thavasakthi/VeloDrive)** | `React 19` `Vite 7` `Node.js` `Express.js` `MongoDB Atlas` `Socket.IO` `JWT` |
+| **Institution Intelligence Engine** | `Flask` `MongoDB` `REST APIs` |
+| **Student Skill Evaluation Platform** | `HTML` `CSS` `JavaScript` `Node.js` `MySQL` |
 
 ---
 
