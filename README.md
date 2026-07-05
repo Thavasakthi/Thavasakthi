@@ -125,7 +125,7 @@
 
 | Project | Description | Tech Stack |
 |:--|:--|:--|
-| **[VeloDrive – Cloud Storage & Real-Time CDN Platform](https://github.com/Thavasakthi/VeloDrive)** | Full-stack cloud storage platform with secure file uploads, JWT auth, 2FA (TOTP), RBAC, and real-time collaboration. [Live Demo](https://velo-drive-iahn.vercel.app) | React 19, Vite 7, Node.js, Express.js, MongoDB Atlas, Socket.IO, JWT |
+| **[VeloDrive – Cloud Storage & Real-Time CDN Platform](https://github.com/Thavasakthi/VeloDrive)** | Full-stack cloud storage platform with secure file uploads, JWT auth, 2FA (TOTP), RBAC, and real-time collaboration. | React 19, Vite 7, Node.js, Express.js, MongoDB Atlas, Socket.IO, JWT |
 | **Institution Intelligence Engine** | Full-stack analytics platform for academic and placement data management with automated reporting. | Flask, MongoDB, REST APIs |
 | **Student Skill Evaluation Platform** | Secure online assessment system with authentication, automated scoring, and result generation. | HTML, CSS, JavaScript, Node.js, MySQL |
 
