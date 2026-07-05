@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=200&section=header&text=Thavasakthi%20Ganesan&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Java%20%7C%20MERN%20Stack&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+
+</div>
+
+<div align="center">
+
 # Hey there, I'm Thavasakthi Ganesan
 
 ### Software Developer | Java | MERN Stack | Full Stack Developer
