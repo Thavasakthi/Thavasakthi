@@ -146,7 +146,7 @@ Explore My Projects
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:283048,100:859398&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=100&section=footer" width="100%"/>
 <div align="center">
 
 **Thanks for visiting!**
