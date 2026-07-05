@@ -69,8 +69,7 @@ Currently I'm strengthening my **problem-solving skills using Java** while conti
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" /> |
 | **Database** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" /> |
 | **Languages** | <img src="https://skillicons.dev/icons?i=java,py,js" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea" /> |
-| **Cloud** | <img src="https://skillicons.dev/icons?i=aws,vercel" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea,eclipse" /> <img src="https://img.shields.io/badge/Thunder_Client-EF7C08?style=flat-square&logo=thunderclient&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" /> |
 | **Currently Learning** | <img src="https://skillicons.dev/icons?i=postgres,java" /> Backend Architecture · REST API Best Practices · Java DSA |
 
 ---
