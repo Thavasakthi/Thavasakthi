@@ -54,7 +54,7 @@ Currently I'm strengthening my **problem-solving skills using Java** while conti
 </td>
 <td width="45%" valign="center">
 
-<img src="https://images.unsplash.com/photo-1547082299-de196ea013d6?auto=format&fit=crop&w=600&q=80" width="100%" />
+<img src="./about-me.png" width="100%" />
 
 </td>
 </tr>
