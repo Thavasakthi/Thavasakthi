@@ -41,15 +41,18 @@ I mainly work with the **MERN Stack**, turning ideas into practical applications
 Currently I'm strengthening my **problem-solving skills using Java** while continuing to deepen my backend architecture and database design knowledge.
 
 **Interests**
+- Java Programming
 - Responsive Web Development
 - Backend Development
-- REST API Design
-- Database Design
-- Clean UI & UX
+- REST API Development
+- Database Management
 - Continuous Learning
+- Building Scalable Applications
+- Open Source Contribution
+- Exploring New Technologies
 
 </td>
-<td width="45%" valign="top">
+<td width="45%" valign="center">
 
 <img src="https://images.unsplash.com/photo-1547082299-de196ea013d6?auto=format&fit=crop&w=600&q=80" width="100%" />
 
