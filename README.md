@@ -105,14 +105,6 @@ Currently I'm strengthening my **problem-solving skills using Java** while conti
 
 <div align="center">
 
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Thavasakthi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="70%" />
-
-### Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thavasakthi&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
-
 ### GitHub Streak
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thavasakthi&theme=tokyonight&hide_border=true" width="70%" />
@@ -121,36 +113,45 @@ Currently I'm strengthening my **problem-solving skills using Java** while conti
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thavasakthi&theme=tokyo-night&hide_border=true" width="90%" />
 
-### GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Thavasakthi&theme=tokyonight&no-frame=true&row=1&column=7" width="90%" />
-
 </div>
 
 ---
 
 ## Let's Connect
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-<a href="mailto:thavasakthiganesan2004@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
-</a>
-<a href="https://linkedin.com/in/thavasakthiganesan2004" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
-</a>
-<a href="https://github.com/Thavasakthi" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
-</a>
+<a href="https://linkedin.com/in/thavasakthiganesan2004" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="60"/></a>
 
-</div>
+**<ins>LinkedIn</ins>**
+
+Professional Profile
+
+</td>
+<td align="center" width="50%">
+
+<a href="https://github.com/Thavasakthi" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="60"/></a>
+
+**<ins>GitHub</ins>**
+
+Explore My Projects
+
+</td>
+</tr>
+</table>
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Thavasakthi&style=flat-square&color=58A6FF&labelColor=1a1a2e" alt="Profile Views"/>
+**Thanks for visiting!**
 
-**Thanks for visiting!** Building modern web applications while continuously learning new technologies.
+Building modern web applications while continuously learning new technologies.
+
+<img src="https://komarev.com/ghpvc/?username=Thavasakthi&style=flat-square&color=58A6FF&labelColor=1a1a2e" alt="Profile Views"/>
 
 </div>
