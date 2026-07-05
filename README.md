@@ -2,6 +2,10 @@
 
 ![Thavasakthi Ganesan](./banner.png)
 
+<a href="https://linkedin.com/in/thavasakthiganesan2004">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+React.js+%7C+Node.js;MERN+Stack+Enthusiast;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</a>
+
 <img src="https://komarev.com/ghpvc/?username=Thavasakthi&style=for-the-badge&color=58A6FF&labelColor=1a1a2e" alt="Profile Views"/>
 
 </div>
