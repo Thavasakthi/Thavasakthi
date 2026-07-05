@@ -6,6 +6,20 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+React.js+%7C+Node.js;MERN+Stack+Enthusiast;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 
+<br/><br/>
+
+<a href="https://linkedin.com/in/thavasakthiganesan2004" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Thavasakthi" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
+</a>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=Thavasakthi&style=for-the-badge&color=58A6FF&labelColor=1a1a2e" alt="Profile Views"/>
 
 </div>
@@ -14,7 +28,34 @@
 
 ## About Me
 
-I'm a Computer Science Engineering graduate (2022–2026) currently interning as a **MERN Stack Developer** at Tarcin Robotics. I build full-stack web applications with a focus on secure authentication (JWT, 2FA, RBAC), clean REST API design, and scalable architecture — with a strong foundation in DSA, OOP, and DBMS.
+<table>
+<tr>
+<td width="55%" valign="top">
+
+**Hello!**
+
+I'm **Thavasakthi Ganesan**, a Computer Science Engineering graduate and passionate **Full Stack Developer** who enjoys building scalable, secure, and user-friendly web applications.
+
+I mainly work with the **MERN Stack**, turning ideas into practical applications with clean UI, well-structured REST APIs, and solid backend logic. I've also implemented secure authentication systems using JWT, 2FA, and RBAC.
+
+Currently I'm strengthening my **problem-solving skills using Java** while continuing to deepen my backend architecture and database design knowledge.
+
+**Interests**
+- Responsive Web Development
+- Backend Development
+- REST API Design
+- Database Design
+- Clean UI & UX
+- Continuous Learning
+
+</td>
+<td width="45%" valign="top">
+
+<img src="https://images.unsplash.com/photo-1547082299-de196ea013d6?auto=format&fit=crop&w=600&q=80" width="100%" />
+
+</td>
+</tr>
+</table>
 
 **Career Objective:** Software Developer role where I can build scalable applications using Java, React.js, Node.js, MySQL, and MongoDB, and contribute to solving real engineering problems.
 
@@ -64,18 +105,23 @@ I'm a Computer Science Engineering graduate (2022–2026) currently interning as
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Thavasakthi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thavasakthi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+### GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thavasakthi&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Thavasakthi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="70%" />
+
+### Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thavasakthi&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
+
+### GitHub Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thavasakthi&theme=tokyonight&hide_border=true" width="70%" />
+
+### GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thavasakthi&theme=tokyo-night&hide_border=true" width="90%" />
 
-</div>
-
-### Trophies
-
-<div align="center">
+### GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=Thavasakthi&theme=tokyonight&no-frame=true&row=1&column=7" width="90%" />
 
