@@ -1,28 +1,28 @@
 <div align="center">
 
-![Thavasakthi Ganesan](./banner.png)
-
-<a href="https://www.linkedin.com/in/thavasakthi-ganesan/" target="_blank">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer;Java+%7C+JavaScript+%7C+React.js;Building+Modern+Web+Applications;REST+API+%7C+MySQL+%7C+Node.js;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</a>
+<img src="./banner.png" width="100%" alt="Thavasakthi Ganesan"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/thavasakthi-ganesan/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Java+%7C+JavaScript+%7C+React.js;Node.js+%7C+Express.js+%7C+MongoDB;Building+Modern+Web+Applications;REST+APIs+%7C+MySQL" alt="Typing SVG"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/thavasakthiganesan2004/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/Thavasakthi" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="mailto:thavasakthiganesan2004@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Thavasakthi&style=for-the-badge&color=58A6FF&labelColor=1a1a2e" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Thavasakthi&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
 
 </div>
 
@@ -30,11 +30,11 @@
 
 ## About Me
 
-I'm **Thavasakthi Ganesan**, a **Software Developer** focused on building modern and reliable web applications.
+I'm **Thavasakthi Ganesan**, a **Software Developer** focused on building modern, responsive, and reliable web applications.
 
-I work with **Java, JavaScript, React.js, Node.js, REST APIs, and MySQL**, with hands-on experience in frontend development, API integration, database operations, testing, and debugging.
+I work with **Java, JavaScript, React.js, Node.js, Express.js, REST APIs, MySQL, and MongoDB**, with hands-on experience in frontend development, API integration, database operations, testing, and debugging.
 
-Currently strengthening my **Java, OOP, SQL, DSA, and backend development** skills.
+I'm currently strengthening my **Java, OOP, SQL, DSA, and backend development** skills while learning **Spring Boot**.
 
 ---
 
@@ -42,78 +42,87 @@ Currently strengthening my **Java, OOP, SQL, DSA, and backend development** skil
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,js,html,css,react,tailwind,nodejs,express,spring,mysql,mongodb,git,github,vscode,postman" alt="Tech Stack"/>
+
+<br/><br/>
+
+<sub>Spring Boot — Currently Learning</sub>
 
 </div>
 
 ### Core Skills
 
-- **Languages:** Java, JavaScript, SQL
-- **Frontend:** HTML5, CSS3, React.js, Tailwind CSS
-- **Backend:** Node.js, REST APIs
-- **Database:** MySQL, MongoDB
-- **Testing:** JUnit 5, Postman
-- **Tools:** Git, GitHub, VS Code
-- **Concepts:** OOP, DSA, DBMS, Authentication, API Integration
+* **Languages:** Java, JavaScript, SQL
+* **Frontend:** HTML5, CSS3, React.js, Tailwind CSS
+* **Backend:** Node.js, Express.js, REST APIs, Spring Boot
+* **Database:** MySQL, MongoDB
+* **Testing:** JUnit 5, Postman
+* **Tools:** Git, GitHub, VS Code
+* **Concepts:** OOP, DSA, DBMS, API Integration, Authentication
 
 ---
 
 ## Experience
 
 ### Software Development Intern — Magizhini Technology Services
+
 **Jul 2026 – Aug 2026**
 
-- Developed and maintained web application features.
-- Worked on frontend development, API integration, debugging, and improvements.
-- Collaborated with the team to resolve bugs and deliver features.
+* Developed and maintained web application features.
+* Worked on frontend development, API integration, debugging, and improvements.
+* Collaborated with the development team to resolve application issues.
 
-### Web Development Intern — Tarcin Robotics
+### Web Development Intern — Tarcin Robotics, Madurai
+
 **Feb 2026 – Jul 2026**
 
-- Developed reusable **React.js components** and integrated REST APIs.
-- Worked with database operations, testing, debugging, and performance improvements.
-- Used **Git and GitHub** for development and version control.
+* Developed reusable **React.js components**.
+* Integrated **REST APIs** with frontend applications.
+* Worked with database operations, testing, and debugging.
+* Used **Git and GitHub** for version control.
 
 ### Frontend Intern — Hazzino Technologies
+
 **Jun 2025 – Jul 2025**
 
-- Developed responsive web interfaces using **HTML, CSS, JavaScript, and Bootstrap**.
-- Worked with database operations and application testing.
+* Developed responsive web interfaces using **HTML, CSS, JavaScript, and Bootstrap**.
+* Worked on application testing and debugging.
+* Gained practical experience in frontend development.
 
 ---
 
-## Projects
+## Featured Projects
 
-### VeloDrive — Secure File Storage & Collaboration
+### VeloDrive — File Management Platform
 
-**React.js · Node.js · Express.js · MongoDB · JWT · 2FA · RBAC · Socket.IO**
+**React.js · Node.js · Express.js · MongoDB**
 
-- Built a responsive web application for secure file upload, storage, and management.
-- Implemented **JWT authentication, 2FA, and role-based access control**.
-- Added real-time collaboration using **Socket.IO**.
+<a href="https://github.com/Thavasakthi/VeloDrive">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**GitHub:** https://github.com/Thavasakthi/VeloDrive  
-**Live:** https://velo-drive.vercel.app/
+<a href="https://velo-drive.vercel.app/">
+<img src="https://img.shields.io/badge/Live-Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+* Built a web application for file upload, storage, and management.
+* Developed responsive interfaces using React.js.
+* Built backend services using Node.js and Express.js.
+* Integrated MongoDB for data management.
+* Implemented authentication and secure application workflows.
 
 ---
 
 ### Institution Intelligence Engine
 
-**React.js · REST APIs · MongoDB**
+**Python · Flask · MongoDB · Playwright · Chart.js**
 
-- Built a web application for managing academic and placement data.
-- Integrated REST APIs with MongoDB for data management, filtering, and reporting.
+* Built a platform for collecting and managing institutional academic and placement information.
+* Developed automated crawling functionality for college websites.
+* Extracted departments, faculty contacts, placement officers, training coordinators, emails, and phone numbers.
+* Stored and managed institutional data using MongoDB.
+* Added filtering, sorting, pagination, reporting, and priority scoring.
+* Developed a dashboard using Flask and Chart.js.
 
 ---
 
@@ -121,20 +130,55 @@ Currently strengthening my **Java, OOP, SQL, DSA, and backend development** skil
 
 **React.js · Node.js · Express.js · MongoDB · Python · Machine Learning**
 
-- Developed an AI-based healthcare system for emergency decision support.
-- Applied machine learning to analyze healthcare data and identify critical situations.
-- Presented the research at **CTET 2026**.
+* Developed an AI-based healthcare emergency intelligence solution.
+* Designed the system for data-driven emergency decision support.
+* Applied machine learning concepts to healthcare-related data.
+* Developed web components using React.js.
+* Presented the project at **CTET 2026**.
 
 ---
 
 ## Certifications
 
-- **NPTEL** — Java Programming
-- **NPTEL** — Programming in Python
-- **IBM SkillsBuild** — Web Development Fundamentals
-- **Infosys Springboard** — Java for Beginners
-- **Infosys Springboard** — Basics of Python
-- **GenAI with Cloud & AI Agent Implementation**
+* **NPTEL** — Java Programming
+* **NPTEL** — Programming in Python
+* **IBM SkillsBuild** — Web Development Fundamentals
+* **Infosys Springboard** — Java for Beginners
+* **Infosys Springboard** — Basics of Python
+* **Cisco Networking Academy** — Networking Basics
+* **GenAI with Cloud & AI Agent Implementation**
+
+---
+
+## Education
+
+### B.E. Computer Science Engineering
+
+**Nadar Saraswathi College of Engineering & Technology, Theni**
+
+**2022 – 2026**
+
+**CGPA: 8.32 / 10**
+
+Computer Science Engineering graduate with practical experience in web development, Java, React.js, databases, REST APIs, and software development.
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Thavasakthi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thavasakthi&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Thavasakthi&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
@@ -142,16 +186,16 @@ Currently strengthening my **Java, OOP, SQL, DSA, and backend development** skil
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/thavasakthi-ganesan/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/thavasakthiganesan2004/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/Thavasakthi" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="mailto:thavasakthiganesan2004@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
