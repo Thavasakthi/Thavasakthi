@@ -4,11 +4,11 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Java+%7C+JavaScript+%7C+React.js;Node.js+%7C+Express.js+%7C+MongoDB;Building+Modern+Web+Applications;REST+APIs+%7C+MySQL" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Web+Developer;React.js+%7C+JavaScript+%7C+Java;Node.js+%7C+REST+APIs+%7C+MySQL;Building+Modern+Web+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/thavasakthiganesan2004/" target="_blank">
+<a href="https://www.linkedin.com/in/thavasakthi-ganesan/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
@@ -30,11 +30,13 @@
 
 ## About Me
 
-I'm **Thavasakthi Ganesan**, a **Software Developer** focused on building modern, responsive, and reliable web applications.
+I'm **Thavasakthi Ganesan**, a **Web Developer** and Computer Science Engineering graduate with hands-on experience in web and software development.
 
-I work with **Java, JavaScript, React.js, Node.js, Express.js, REST APIs, MySQL, and MongoDB**, with hands-on experience in frontend development, API integration, database operations, testing, and debugging.
+I work with **Java, JavaScript, HTML5, CSS3, React.js, Node.js, REST APIs, and MySQL**, with experience in developing responsive web applications, reusable components, API integration, database operations, testing, and debugging.
 
-I'm currently strengthening my **Java, OOP, SQL, DSA, and backend development** skills while learning **Spring Boot**.
+I have a strong foundation in **Java, OOP, SQL, DBMS, and software development practices**, with experience using **Git and GitHub** for version control.
+
+Currently seeking an entry-level **Junior Software Developer / Web Developer** opportunity.
 
 ---
 
@@ -42,60 +44,59 @@ I'm currently strengthening my **Java, OOP, SQL, DSA, and backend development** 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,react,tailwind,nodejs,express,spring,mysql,mongodb,git,github,vscode,postman" alt="Tech Stack"/>
-
-<br/><br/>
-
-<sub>Spring Boot — Currently Learning</sub>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,react,tailwind,nodejs,mysql,git,github,vscode,postman" alt="Tech Stack"/>
 
 </div>
 
-### Core Skills
+### Technical Skills
 
-* **Languages:** Java, JavaScript, SQL
+* **Languages:** JavaScript, Java, SQL
 * **Frontend:** HTML5, CSS3, React.js, Tailwind CSS
-* **Backend:** Node.js, Express.js, REST APIs, Spring Boot
-* **Database:** MySQL, MongoDB
-* **Testing:** JUnit 5, Postman
-* **Tools:** Git, GitHub, VS Code
-* **Concepts:** OOP, DSA, DBMS, API Integration, Authentication
+* **Backend:** Node.js, REST APIs
+* **Database:** MySQL, SQL, Joins
+* **Java Technologies:** Maven
+* **Testing:** JUnit 5, Unit Testing
+* **Tools:** Git, GitHub, VS Code, Postman
+* **Core Concepts:** Responsive Web Design, API Integration, OOP, DBMS, Authentication, Debugging
 
 ---
 
-## Experience
+## Internship Experience
 
-### Software Development Intern — Magizhini Technology Services
+### Web Development Intern — Magizhini Technology Services
 
 **Jul 2026 – Aug 2026**
 
-* Developed and maintained web application features.
-* Worked on frontend development, API integration, debugging, and improvements.
-* Collaborated with the development team to resolve application issues.
+* Developed and maintained web application features using modern web technologies.
+* Worked on frontend development, API integration, debugging, and application improvements.
+* Collaborated with team members on feature development and bug fixing.
+
+---
 
 ### Web Development Intern — Tarcin Robotics, Madurai
 
 **Feb 2026 – Jul 2026**
 
-* Developed reusable **React.js components**.
-* Integrated **REST APIs** with frontend applications.
-* Worked with database operations, testing, and debugging.
-* Used **Git and GitHub** for version control.
+* Developed responsive **React.js components** and integrated REST APIs to build functional web interfaces.
+* Performed database operations, application testing, debugging, and performance optimization.
+* Collaborated with team members using **Git and GitHub** for source-code management, feature development, testing, and bug fixing.
+
+---
 
 ### Frontend Intern — Hazzino Technologies
 
 **Jun 2025 – Jul 2025**
 
-* Developed responsive web interfaces using **HTML, CSS, JavaScript, and Bootstrap**.
-* Worked on application testing and debugging.
-* Gained practical experience in frontend development.
+* Developed responsive web pages using **HTML5, CSS3, JavaScript, and MySQL**.
+* Tested and debugged web applications to improve functionality and reliability.
 
 ---
 
-## Featured Projects
+## Projects
 
-### VeloDrive — File Management Platform
+### VeloDrive — Secure File Storage & Collaboration Platform
 
-**React.js · Node.js · Express.js · MongoDB**
+**React.js · Node.js · Express.js · MongoDB · JWT · 2FA · RBAC · Socket.IO**
 
 <a href="https://github.com/Thavasakthi/VeloDrive">
 <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -105,48 +106,38 @@ I'm currently strengthening my **Java, OOP, SQL, DSA, and backend development** 
 <img src="https://img.shields.io/badge/Live-Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-* Built a web application for file upload, storage, and management.
-* Developed responsive interfaces using React.js.
-* Built backend services using Node.js and Express.js.
-* Integrated MongoDB for data management.
-* Implemented authentication and secure application workflows.
+* Developed a responsive web interface using **React.js** for secure file upload, storage, and file management.
+* Integrated REST APIs and implemented authentication features including **JWT, 2FA, and RBAC**.
+* Implemented real-time collaboration using **Socket.IO**.
+* Deployed the application using **Vercel and Render**.
 
 ---
 
 ### Institution Intelligence Engine
 
-**Python · Flask · MongoDB · Playwright · Chart.js**
+**React.js · REST APIs · MongoDB**
 
-* Built a platform for collecting and managing institutional academic and placement information.
-* Developed automated crawling functionality for college websites.
-* Extracted departments, faculty contacts, placement officers, training coordinators, emails, and phone numbers.
-* Stored and managed institutional data using MongoDB.
-* Added filtering, sorting, pagination, reporting, and priority scoring.
-* Developed a dashboard using Flask and Chart.js.
+* Developed a responsive **React.js interface** for managing and analyzing academic and placement data.
+* Integrated REST APIs with **MongoDB** for data retrieval, storage, filtering, and reporting.
 
 ---
 
-### AI-Driven Healthcare Emergency Intelligence System
+### AI-Driven Unified Health Care Emergency Intelligence System
 
 **React.js · Node.js · Express.js · MongoDB · Python · Machine Learning**
 
-* Developed an AI-based healthcare emergency intelligence solution.
-* Designed the system for data-driven emergency decision support.
-* Applied machine learning concepts to healthcare-related data.
-* Developed web components using React.js.
-* Presented the project at **CTET 2026**.
+* Developed an AI-based healthcare system for **emergency detection and intelligent decision-making**.
+* Implemented AI/ML techniques to analyze healthcare data and identify critical situations.
+* Presented the research paper at the **CTET 2026 National Conference**.
 
 ---
 
 ## Certifications
 
 * **NPTEL** — Java Programming
-* **NPTEL** — Programming in Python
 * **IBM SkillsBuild** — Web Development Fundamentals
 * **Infosys Springboard** — Java for Beginners
-* **Infosys Springboard** — Basics of Python
 * **Cisco Networking Academy** — Networking Basics
-* **GenAI with Cloud & AI Agent Implementation**
 
 ---
 
@@ -154,13 +145,38 @@ I'm currently strengthening my **Java, OOP, SQL, DSA, and backend development** 
 
 ### B.E. Computer Science Engineering
 
-**Nadar Saraswathi College of Engineering & Technology, Theni**
+**Nadar Saraswathi College of Engineering & Technology, Theni, Tamil Nadu**
 
 **2022 – 2026**
 
-**CGPA: 8.32 / 10**
+**CGPA: 8.42 / 10**
 
-Computer Science Engineering graduate with practical experience in web development, Java, React.js, databases, REST APIs, and software development.
+### Higher Secondary Certificate
+
+**HSC — 87.50%**
+
+**2021 – 2022**
+
+### Secondary School Leaving Certificate
+
+**SSLC — 81.40%**
+
+**2019 – 2020**
+
+---
+
+## Achievements
+
+* **Academic Excellence Award** — Received twice
+* **3rd Rank** — Secured in the 3rd and 5th semesters
+
+---
+
+## Conferences & Research Presentations
+
+### AI-Driven Unified Health Care Emergency Intelligence System
+
+Presented research paper at the **One-Day National Conference on Current Trends in Engineering & Technology (CTET 2026)** in **April 2026**.
 
 ---
 
@@ -186,7 +202,7 @@ Computer Science Engineering graduate with practical experience in web developme
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/thavasakthiganesan2004/" target="_blank">
+<a href="https://www.linkedin.com/in/thavasakthi-ganesan/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
